@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{44FF5710-79CA-478F-86F5-8F203F81284E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Leetcode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Leetcode/Program.cs">
+    <Files>
+      <File FileName="Leetcode/Divide.cs" Line="13" Column="55" />
+      <File FileName="Leetcode/Program.cs" Line="16" Column="1" />
+      <File FileName="Leetcode/FindSubstring.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbookpro/Projects/Leetcode/Leetcode/RemoveNthNodeFromEnd.cs" relfile="Leetcode/RemoveNthNodeFromEnd.cs" line="14" column="1" />
+      <Breakpoint file="/Users/macbookpro/Projects/Leetcode/Leetcode/ValidParenthesis.cs" relfile="Leetcode/ValidParenthesis.cs" line="26" column="43" />
+      <Breakpoint file="/Users/macbookpro/Projects/Leetcode/Leetcode/GenerateParenthesis.cs" relfile="Leetcode/GenerateParenthesis.cs" line="25" column="29" />
+      <Breakpoint file="/Users/macbookpro/Projects/Leetcode/Leetcode/RemoveDuplicates.cs" relfile="Leetcode/RemoveDuplicates.cs" line="9" column="27" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
