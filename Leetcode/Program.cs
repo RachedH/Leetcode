@@ -6,12 +6,9 @@ namespace Leetcode
     {
         static void Main(string[] args)
         {
-            var originalPermutation = new[] {2, 3, 1};
-            
-            NextPermutation.Execute(originalPermutation);
+            var longestValidParentheses = LongestValidParentheses.Execute("()(())");
         
-            foreach (var entry in originalPermutation)
-                Console.WriteLine(entry);
+            Console.WriteLine(longestValidParentheses);
         }
     }
 }
